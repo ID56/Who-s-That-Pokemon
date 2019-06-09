@@ -11,3 +11,18 @@
   <li>Total: 280 images</li>
   </ul>
 
+<h3>Tools/Libraries used</h3>
+<ul>
+  <li>Jupyter Notebook</li>
+  <li>Python</li>
+  <li>Torchvision</li>
+  <li>CUDA</li>
+  <li>matplotlib</li>
+ </ul>
+ 
+ <h3>To run:</h3>
+<ul>
+  <li>Clone the repository to your local machine</li>
+  <li>To test your own image, upload it into the test directory and update the paths into the test image loader</li>
+  <li>Restart and run the kernel to train</li>
+ </ul>
