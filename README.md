@@ -10,6 +10,10 @@
   </li>
   <li>Total: 280 images</li>
   </ul>
+  
+  <img src="https://github.com/ID56/Who-s-That-Pokemon/blob/master/pokemondata/bulbasaur/bulb.jpeg">
+  <img src="https://github.com/ID56/Who-s-That-Pokemon/blob/master/pokemondata/charmander/image-12.jpeg">
+  <img src="https://github.com/ID56/Who-s-That-Pokemon/blob/master/pokemondata/squirtle/image-9.jpeg">
 
 <h3>Tools/Libraries used</h3>
 <ul>
@@ -18,6 +22,7 @@
   <li>Torchvision</li>
   <li>CUDA</li>
   <li>matplotlib</li>
+  <li>Image Downloader Mozilla Addon</li>
  </ul>
  
  <h3>To run:</h3>
